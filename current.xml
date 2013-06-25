@@ -1,0 +1,30 @@
+<?xml version="1.0" ?> 
+<nekocraft>
+<version>
+<ver>130622</ver>
+<mc>1.5.2</mc>
+<scp>42</scp>
+<format>old<format>
+<!--Format格式指的是Minecraft目录的结构
+old指的是Notch使用的旧目录结构（1.6以前）
+new指的是很绅（hen）士（tai）的新目录结构（1.6以后）
+-->
+</version>
+<files>
+<jar name="minecraft.jar" md5="6897c3287fb971c9f362eb3ab20f5ddd"></jar>
+<jar name="spoutcraft.jar" md5="f0c7597af55f4f3549f40c4cf9dfc54f"></jar>
+<lwjgl name="lwjgl-2.9.0.zip" md5="00a5cdac75d5d15a90ce4c72083b39b1"></lwjgl>
+<lib name="codecjlayermp3-r2.jar" md5="153b94f68b428c8cd01af3bc5fe97a7b"></lib>
+<lib name="codecjorbis-r0.jar" md5="9c50482be704bc5afab1f4bb37a0b328"></lib>
+<lib name="commons-io-2.4.jar" md5="7f97854dc04c119d461fed14f5d8bb96"></lib>
+<lib name="commons-lang3-3.1.jar" md5="71b48e6b3e1b1dc73fe705604b9c7584"></lib>
+<lib name="dnsjava-2.1.1.jar" md5="f2cbd8161a4e9848fb881fcf94b908e7"></lib>
+<lib name="guava-13.0.1.jar" md5="539a72e3c7b7bd1b12b9cf7a567fb28a"></lib>
+<lib name="jmdns-3.4.1.jar" md5="e2514b632343c9cb4d73315eb6b72e6b"></lib>
+<lib name="slick-274.jar" md5="79d2d31fb11eeff8600a3eef6ca5a8ab"></lib>
+<lib name="snakeyaml-1.11.jar" md5="aaf0ae91ecb60fdfaf18ed5e382b71b4"></lib>
+<lib name="trove4j-3.0.3.jar" md5="8fc4d4e0129244f9fd39650c5f30feb2"></lib>
+<mod name="[1.5.2]ReiMinimap_v3.3_06_neko.zip" md5="a973b4190fbdc521e751b2e62a9c4ef5"></mod>
+<texture name="Nekocraft_Custom_HD.zip" md5="9253e43aca95e68f269e8e2fdde4b81a"></texture>
+</files>
+</nekocraft>
