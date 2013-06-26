@@ -22,7 +22,7 @@ new:the yooooooooo new structure by Jeb(versions,assets,libraries,etc)
 <jar name="lwjgl_util.jar" md5="6a0eeaf3451ed9646b7d61a9dd8b86cc"></jar>
 <!--LWJGL Natives-->
 <native name="lwjgl-native-linux.zip" os="linux" md5="d36c53e368891c5a9a9ece852aefcfd4"></native>
-<native name="lwjgl-native-osx.zip" os="macosx" md5="55d94ec1f9ee72296d5c40e18da63bf1"></native>
+<native name="lwjgl-native-osx.zip" os="mac" md5="55d94ec1f9ee72296d5c40e18da63bf1"></native>
 <native name="lwjgl-native-win.zip" os="windows" md5="e9350e1e6a209af23fe0fb53a76bfdd4"></native>
 <!--Spoutcraft Libraries-->
 <lib name="codecjlayermp3-r2.jar" md5="153b94f68b428c8cd01af3bc5fe97a7b"></lib>
