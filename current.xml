@@ -14,8 +14,8 @@ new:the yooooooooo new structure by Jeb(versions,assets,libraries,etc)
 </version>
 <files>
 <!--Game-->
-<jar name="minecraft.jar" md5="5c1219d869b87d233de3033688ec7567"></jar>
-<jar name="spoutcraft.jar" md5="6bca25453f5fbe48b840b5abcb511eba"></jar>
+<jar name="minecraft.jar" md5="6897c3287fb971c9f362eb3ab20f5ddd"></jar>
+<jar name="spoutcraft.jar" md5="f0c7597af55f4f3549f40c4cf9dfc54f"></jar>
 <!--LWJGL Jars-->
 <jar name="jinput.jar" md5="d62ff8cd9539a32dac094c00e820e9e6"></jar>
 <jar name="lwjgl.jar" md5="ce74486a7687ad7ea91dcc1fcd6977b8"></jar>
