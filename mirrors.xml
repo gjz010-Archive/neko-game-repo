@@ -1,4 +1,4 @@
 <mirrors>
 <mirror name="central" spout="http://ci.nekocraft.com/job/Spoutcraft/$VERSION$/artifact/target/Spoutcraft.jar" minecraft="http://assets.minecraft.net/$VERSION$/minecraft.jar" librepo="http://neko.gjz010.tk/"/>
-<mirror name="gitcafe" spout="http://ci.nekocraft.com/job/Spoutcraft/$VERSION$/artifact/target/Spoutcraft.jar" minecraft="http://assets.minecraft.net/$VERSION$/minecraft.jar" librepo="http://gjz010.gitcafe.com"/>
+<mirror name="gitcafe" spout="http://ci.nekocraft.com/job/Spoutcraft/$VERSION$/artifact/target/Spoutcraft.jar" minecraft="http://assets.minecraft.net/$VERSION$/minecraft.jar" librepo="http://gjz010.gitcafe.com/"/>
 </mirrors>
